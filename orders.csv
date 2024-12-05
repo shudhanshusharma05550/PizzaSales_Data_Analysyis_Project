@@ -1,0 +1,301 @@
+order_id,cust_id,quantity,orderdate,total_price,pizzatype,staff_id,pizza_id
+1,C1,2,01-01-2024,17,Margherita,101,pizz_marg
+2,C2,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+3,C3,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+4,C4,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+5,C5,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+6,C6,1,01-01-2024,12,Meat Lover,102,pizz_meat
+7,C7,2,01-01-2024,17,Margherita,101,pizz_marg
+8,C8,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+9,C9,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+10,C10,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+11,C11,2,01-01-2024,17,Margherita,101,pizz_marg
+12,C12,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+13,C13,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+14,C14,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+15,C15,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+16,C16,1,01-01-2024,12,Meat Lover,102,pizz_meat
+17,C17,2,01-01-2024,17,Margherita,101,pizz_marg
+18,C18,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+19,C19,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+20,C20,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+21,C21,2,01-01-2024,17,Margherita,101,pizz_marg
+22,C22,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+23,C23,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+24,C24,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+25,C25,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+26,C26,1,01-01-2024,12,Meat Lover,102,pizz_meat
+27,C27,2,01-01-2024,17,Margherita,101,pizz_marg
+28,C28,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+29,C29,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+30,C30,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+31,C31,2,01-01-2024,17,Margherita,101,pizz_marg
+32,C32,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+33,C33,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+34,C34,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+35,C35,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+36,C36,1,01-01-2024,12,Meat Lover,102,pizz_meat
+37,C37,2,01-01-2024,17,Margherita,101,pizz_marg
+38,C38,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+39,C39,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+40,C40,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+41,C41,2,01-01-2024,17,Margherita,101,pizz_marg
+42,C42,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+43,C43,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+44,C44,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+45,C45,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+46,C46,1,01-01-2024,12,Meat Lover,102,pizz_meat
+47,C47,2,01-01-2024,17,Margherita,101,pizz_marg
+48,C48,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+49,C49,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+50,C50,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+51,C51,2,01-01-2024,17,Margherita,101,pizz_marg
+52,C52,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+53,C53,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+54,C54,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+55,C55,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+56,C56,1,01-01-2024,12,Meat Lover,102,pizz_meat
+57,C57,2,01-01-2024,17,Margherita,101,pizz_marg
+58,C58,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+59,C59,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+60,C60,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+61,C61,2,01-01-2024,17,Margherita,101,pizz_marg
+62,C62,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+63,C63,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+64,C64,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+65,C65,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+66,C66,1,01-01-2024,12,Meat Lover,102,pizz_meat
+67,C67,2,01-01-2024,17,Margherita,101,pizz_marg
+68,C68,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+69,C69,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+70,C70,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+71,C71,2,01-01-2024,17,Margherita,101,pizz_marg
+72,C72,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+73,C73,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+74,C74,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+75,C75,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+76,C76,1,01-01-2024,12,Meat Lover,102,pizz_meat
+77,C77,2,01-01-2024,17,Margherita,101,pizz_marg
+78,C78,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+79,C79,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+80,C80,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+81,C81,2,01-01-2024,17,Margherita,101,pizz_marg
+82,C82,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+83,C83,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+84,C84,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+85,C85,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+86,C86,1,01-01-2024,12,Meat Lover,102,pizz_meat
+87,C87,2,01-01-2024,17,Margherita,101,pizz_marg
+88,C88,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+89,C89,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+90,C90,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+91,C91,2,01-01-2024,17,Margherita,101,pizz_marg
+92,C92,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+93,C93,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+94,C94,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+95,C95,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+96,C96,1,01-01-2024,12,Meat Lover,102,pizz_meat
+97,C97,2,01-01-2024,17,Margherita,101,pizz_marg
+98,C98,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+99,C99,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+100,C100,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+101,C101,2,01-01-2024,17,Margherita,101,pizz_marg
+102,C102,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+103,C103,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+104,C104,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+105,C105,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+106,C106,1,01-01-2024,12,Meat Lover,102,pizz_meat
+107,C107,2,01-01-2024,17,Margherita,101,pizz_marg
+108,C108,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+109,C109,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+110,C110,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+111,C111,2,01-01-2024,17,Margherita,101,pizz_marg
+112,C112,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+113,C113,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+114,C114,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+115,C115,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+116,C116,1,01-01-2024,12,Meat Lover,102,pizz_meat
+117,C117,2,01-01-2024,17,Margherita,101,pizz_marg
+118,C118,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+119,C119,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+120,C120,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+121,C121,2,01-01-2024,17,Margherita,101,pizz_marg
+122,C122,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+123,C123,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+124,C124,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+125,C125,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+126,C126,1,01-01-2024,12,Meat Lover,102,pizz_meat
+127,C127,2,01-01-2024,17,Margherita,101,pizz_marg
+128,C128,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+129,C129,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+130,C130,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+131,C131,2,01-01-2024,17,Margherita,101,pizz_marg
+132,C132,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+133,C133,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+134,C134,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+135,C135,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+136,C136,1,01-01-2024,12,Meat Lover,102,pizz_meat
+137,C137,2,01-01-2024,17,Margherita,101,pizz_marg
+138,C138,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+139,C139,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+140,C140,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+141,C141,2,01-01-2024,17,Margherita,101,pizz_marg
+142,C142,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+143,C143,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+144,C144,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+145,C145,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+146,C146,1,01-01-2024,12,Meat Lover,102,pizz_meat
+147,C147,2,01-01-2024,17,Margherita,101,pizz_marg
+148,C148,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+149,C149,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+150,C150,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+151,C151,2,01-01-2024,17,Margherita,101,pizz_marg
+152,C152,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+153,C153,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+154,C154,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+155,C155,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+156,C156,1,01-01-2024,12,Meat Lover,102,pizz_meat
+157,C157,2,01-01-2024,17,Margherita,101,pizz_marg
+158,C158,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+159,C159,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+160,C160,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+161,C161,2,01-01-2024,17,Margherita,101,pizz_marg
+162,C162,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+163,C163,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+164,C164,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+165,C165,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+166,C166,1,01-01-2024,12,Meat Lover,102,pizz_meat
+167,C167,2,01-01-2024,17,Margherita,101,pizz_marg
+168,C168,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+169,C169,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+170,C170,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+171,C171,2,01-01-2024,17,Margherita,101,pizz_marg
+172,C172,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+173,C173,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+174,C174,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+175,C175,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+176,C176,1,01-01-2024,12,Meat Lover,102,pizz_meat
+177,C177,2,01-01-2024,17,Margherita,101,pizz_marg
+178,C178,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+179,C179,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+180,C180,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+181,C181,2,01-01-2024,17,Margherita,101,pizz_marg
+182,C182,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+183,C183,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+184,C184,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+185,C185,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+186,C186,1,01-01-2024,12,Meat Lover,102,pizz_meat
+187,C187,2,01-01-2024,17,Margherita,101,pizz_marg
+188,C188,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+189,C189,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+190,C190,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+191,C191,2,01-01-2024,17,Margherita,101,pizz_marg
+192,C192,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+193,C193,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+194,C194,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+195,C195,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+196,C196,1,01-01-2024,12,Meat Lover,102,pizz_meat
+197,C197,2,01-01-2024,17,Margherita,101,pizz_marg
+198,C198,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+199,C199,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+200,C200,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+201,C201,2,01-01-2024,17,Margherita,101,pizz_marg
+202,C202,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+203,C203,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+204,C204,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+205,C205,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+206,C206,1,01-01-2024,12,Meat Lover,102,pizz_meat
+207,C207,2,01-01-2024,17,Margherita,101,pizz_marg
+208,C208,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+209,C209,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+210,C210,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+211,C211,2,01-01-2024,17,Margherita,101,pizz_marg
+212,C212,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+213,C213,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+214,C214,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+215,C215,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+216,C216,1,01-01-2024,12,Meat Lover,102,pizz_meat
+217,C217,2,01-01-2024,17,Margherita,101,pizz_marg
+218,C218,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+219,C219,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+220,C220,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+221,C221,2,01-01-2024,17,Margherita,101,pizz_marg
+222,C222,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+223,C223,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+224,C224,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+225,C225,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+226,C226,1,01-01-2024,12,Meat Lover,102,pizz_meat
+227,C227,2,01-01-2024,17,Margherita,101,pizz_marg
+228,C228,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+229,C229,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+230,C230,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+231,C231,2,01-01-2024,17,Margherita,101,pizz_marg
+232,C232,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+233,C233,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+234,C234,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+235,C235,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+236,C236,1,01-01-2024,12,Meat Lover,102,pizz_meat
+237,C237,2,01-01-2024,17,Margherita,101,pizz_marg
+238,C238,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+239,C239,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+240,C240,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+241,C241,2,01-01-2024,17,Margherita,101,pizz_marg
+242,C242,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+243,C243,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+244,C244,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+245,C245,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+246,C246,1,01-01-2024,12,Meat Lover,102,pizz_meat
+247,C247,2,01-01-2024,17,Margherita,101,pizz_marg
+248,C248,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+249,C249,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+250,C250,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+251,C251,2,01-01-2024,17,Margherita,101,pizz_marg
+252,C252,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+253,C253,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+254,C254,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+255,C255,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+256,C256,1,01-01-2024,12,Meat Lover,102,pizz_meat
+257,C257,2,01-01-2024,17,Margherita,101,pizz_marg
+258,C258,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+259,C259,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+260,C260,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+261,C261,2,01-01-2024,17,Margherita,101,pizz_marg
+262,C262,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+263,C263,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+264,C264,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+265,C265,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+266,C266,1,01-01-2024,12,Meat Lover,102,pizz_meat
+267,C267,2,01-01-2024,17,Margherita,101,pizz_marg
+268,C268,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+269,C269,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+270,C270,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+271,C271,2,01-01-2024,17,Margherita,101,pizz_marg
+272,C272,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+273,C273,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+274,C274,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+275,C275,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+276,C276,1,01-01-2024,12,Meat Lover,102,pizz_meat
+277,C277,2,01-01-2024,17,Margherita,101,pizz_marg
+278,C278,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+279,C279,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+280,C280,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+281,C281,2,01-01-2024,17,Margherita,101,pizz_marg
+282,C282,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+283,C283,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+284,C284,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+285,C285,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+286,C286,1,01-01-2024,12,Meat Lover,102,pizz_meat
+287,C287,2,01-01-2024,17,Margherita,101,pizz_marg
+288,C288,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+289,C289,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+290,C290,3,03-01-2024,22.5,Veggie,101,pizz_vegg
+291,C291,2,01-01-2024,17,Margherita,101,pizz_marg
+292,C292,1,01-01-2024,9,Pepperoni,102,pizz_pepp
+293,C293,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+294,C294,3,02-01-2024,22.5,Veggie,101,pizz_vegg
+295,C295,2,03-01-2024,22,Hawaiian,104,pizz_hawa
+296,C296,1,01-01-2024,12,Meat Lover,102,pizz_meat
+297,C297,2,01-01-2024,17,Margherita,101,pizz_marg
+298,C298,1,02-01-2024,9,Pepperoni,102,pizz_pepp
+299,C299,1,02-01-2024,10,BBQ Chicken,103,pizz_bbqc
+300,C300,3,03-01-2024,22.5,Veggie,101,pizz_vegg

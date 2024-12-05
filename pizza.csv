@@ -1,0 +1,7 @@
+pizza_id,PizzaType,PricePerUnit,Ingredients
+pizz_marg,Margherita,8.5,"Dough, Tomato Sauce, Cheese"
+pizz_pepp,Pepperoni,9,"Dough, Tomato Sauce, Cheese, Pepperoni"
+pizz_bbqc,BBQ Chicken,10,"Dough, BBQ Sauce, Cheese, Chicken"
+pizz_vegg,Veggie,7.5,"Dough, Tomato Sauce, Cheese, Veggies"
+pizz_hawa,Hawaiian,11,"Dough, Tomato Sauce, Cheese, Ham, Pineapple"
+pizz_meat,Meat Lover,12,"Dough, Tomato Sauce, Cheese"
